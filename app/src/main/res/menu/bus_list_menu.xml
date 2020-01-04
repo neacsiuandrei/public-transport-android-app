@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/refresh_list_buses"
+        android:title="Refresh Buses List" />
+    <item
+        android:id="@+id/bus_create_report_btn"
+        android:title="Create Report" />
+</menu>
